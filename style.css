@@ -1,0 +1,68 @@
+body {
+background=url(images/bg login.jpeg)
+no-repeat center center fixed;
+background-size: cover;
+font-family: sans-serif;
+margin-top: 1%;
+}
+
+.wrapper {
+text-align: center;
+}
+
+.header{
+background-color: #404040;
+color; #fff;
+font-size: 26px;
+width: 40%;
+padding: 5px;
+margin:0 auto;
+opacity: 0.8;
+}
+ 
+.form{
+background-color: #404040;
+color: #fff;
+height: 75vh;
+font-size: 26px;
+width: 40%;
+padding: 5px;
+margin:0 auto;
+opacity: 0.8;
+}
+ label,.block{
+display: block;
+margin: 15px 0;
+text-align: center;
+font-size: 26px;
+}
+
+.block{
+border-radius: 10px;
+font-size: 20px;
+margin-left: 25%
+}
+
+img{
+border-radius: 50%;
+width: 100px;
+height: 100px;
+}
+
+button{
+font-size: 18px;
+margin:7% auto;
+display: block:
+}
+
+a{
+text-decoration: none;
+}
+
+p{
+font-size: 1rem;
+}
+
+
+
+
